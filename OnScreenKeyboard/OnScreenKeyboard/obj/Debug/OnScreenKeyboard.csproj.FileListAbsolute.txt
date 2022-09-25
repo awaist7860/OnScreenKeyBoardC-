@@ -1,0 +1,10 @@
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.exe.config
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.exe
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.pdb
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csproj.AssemblyReference.cache
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.Form1.resources
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.Properties.Resources.resources
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csproj.GenerateResource.cache
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.exe
+C:\Users\tabsa\Documents\GitHub\OnScreenKeyBoardC-\OnScreenKeyboard\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.pdb
