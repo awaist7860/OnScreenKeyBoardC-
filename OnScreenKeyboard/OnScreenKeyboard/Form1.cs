@@ -42,8 +42,11 @@ namespace OnScreenKeyboard
         public void messageSend()
         {
             int i = 1;
+            int t = 10;
+            int c = 1;
+            string amount;
 
-            while(i < 10)
+            while(i < t)
             {
                 SendKeys.Send("Y");
                 SendKeys.Send("O");
@@ -57,7 +60,12 @@ namespace OnScreenKeyboard
                 SendKeys.Send("e");
                 SendKeys.Send("{ENTER}");
                 i++;
+                c++;
+                amount = c.ToString();
                 Thread.Sleep(250);
+                label1.Text = amount;
+                Thread.Sleep(50);
+
             }
         }
     }
