@@ -42,7 +42,7 @@ namespace OnScreenKeyboard
         public void messageSend()
         {
             int i = 1;
-            int t = 10;
+            int t = 10000000;
             int c = 1;
             string amount;
 
@@ -62,9 +62,8 @@ namespace OnScreenKeyboard
                 i++;
                 c++;
                 amount = c.ToString();
-                Thread.Sleep(250);
+                Thread.Sleep(300);
                 label1.Text = amount;
-                Thread.Sleep(50);
 
             }
         }
