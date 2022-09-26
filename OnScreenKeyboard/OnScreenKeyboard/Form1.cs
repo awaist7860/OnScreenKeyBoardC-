@@ -62,7 +62,7 @@ namespace OnScreenKeyboard
                 i++;
                 c++;
                 amount = c.ToString();
-                Thread.Sleep(300);
+                Thread.Sleep(400);
                 label1.Text = amount;
 
             }
